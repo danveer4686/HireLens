@@ -1,0 +1,18 @@
+Name: Rahul Mehta
+Role: Senior Data Engineer
+
+Summary:
+Experienced Data Engineer with strong expertise in Python, SQL, Apache Spark, and BigQuery.
+
+Skills:
+- Python, SQL
+- Spark (Structured Streaming, DataFrames)
+- GCP BigQuery, Cloud Storage, Composer (Airflow)
+- ETL pipeline development
+- Data modelling & performance optimization
+
+Experience:
+Data Engineer | TechCorp | 4 years
+- Built scalable ETL pipelines in Spark and Python.
+- Designed data warehouse models.
+- Optimized BigQuery queries reducing cost by 30%.

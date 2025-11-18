@@ -1,0 +1,18 @@
+Name: Priya Sharma
+Role: Senior UI Developer
+
+Summary:
+Front-end engineer specializing in building responsive UI applications using React, JavaScript, and CSS.
+
+Skills:
+- React, Redux
+- JavaScript, TypeScript
+- HTML, CSS, Tailwind
+- UI/UX design
+- Component architecture
+
+Experience:
+UI Developer | SoftWeb | 5 years
+- Built front-end features for e‑commerce platform.
+- Designed reusable component library.
+- Improved performance using React hooks and memoization.

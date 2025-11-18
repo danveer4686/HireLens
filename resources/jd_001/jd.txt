@@ -1,0 +1,16 @@
+Job Title: Data Engineer
+
+Responsibilities:
+- Build and maintain scalable data pipelines.
+- Develop ETL workflows using Python and Spark.
+- Work with cloud platforms such as GCP or AWS.
+- Optimize BigQuery or Snowflake datasets.
+- Implement data quality checks and monitoring.
+- Collaborate with data scientists and analysts.
+
+Required Skills:
+- Python, SQL
+- Apache Spark
+- Airflow or similar orchestrators
+- BigQuery / Redshift / Snowflake
+- Data modelling and warehouse concepts
